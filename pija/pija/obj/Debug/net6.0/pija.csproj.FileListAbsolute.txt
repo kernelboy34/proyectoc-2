@@ -1,0 +1,15 @@
+/Users/bernardopedrazas/pija/pija/bin/Debug/net6.0/pija
+/Users/bernardopedrazas/pija/pija/bin/Debug/net6.0/pija.deps.json
+/Users/bernardopedrazas/pija/pija/bin/Debug/net6.0/pija.runtimeconfig.json
+/Users/bernardopedrazas/pija/pija/bin/Debug/net6.0/pija.dll
+/Users/bernardopedrazas/pija/pija/bin/Debug/net6.0/ref/pija.dll
+/Users/bernardopedrazas/pija/pija/bin/Debug/net6.0/pija.pdb
+/Users/bernardopedrazas/pija/pija/obj/Debug/net6.0/pija.csproj.AssemblyReference.cache
+/Users/bernardopedrazas/pija/pija/obj/Debug/net6.0/pija.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bernardopedrazas/pija/pija/obj/Debug/net6.0/pija.AssemblyInfoInputs.cache
+/Users/bernardopedrazas/pija/pija/obj/Debug/net6.0/pija.AssemblyInfo.cs
+/Users/bernardopedrazas/pija/pija/obj/Debug/net6.0/pija.csproj.CoreCompileInputs.cache
+/Users/bernardopedrazas/pija/pija/obj/Debug/net6.0/pija.dll
+/Users/bernardopedrazas/pija/pija/obj/Debug/net6.0/ref/pija.dll
+/Users/bernardopedrazas/pija/pija/obj/Debug/net6.0/pija.pdb
+/Users/bernardopedrazas/pija/pija/obj/Debug/net6.0/pija.genruntimeconfig.cache
